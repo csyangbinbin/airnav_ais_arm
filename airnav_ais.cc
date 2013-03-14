@@ -1,7 +1,6 @@
 /*
 AirNav AIS
 */
-
 #include "net_tcp_srv.hpp"
 #include "serport.hpp"
 #include "xml_cfg.hpp"
