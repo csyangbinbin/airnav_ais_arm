@@ -1,0 +1,575 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Get",
+				"GetNodePointerByNameFromRoot"
+			],
+			[
+				"sock",
+				"socket"
+			],
+			[
+				"ser",
+				"serial_port_crt"
+			],
+			[
+				"port_nam",
+				"port_name_"
+			],
+			[
+				"shared",
+				"shared_from_this"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 781,
+				"line_ending": "Unix",
+				"name": "Makefile"
+			}
+		},
+		{
+			"file": "airnav_ais.cc",
+			"settings":
+			{
+				"buffer_size": 2745,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "serport.hpp",
+			"settings":
+			{
+				"buffer_size": 1012,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "serport.cc",
+			"settings":
+			{
+				"buffer_size": 2318,
+				"line_ending": "Unix",
+				"name": "serport.cc"
+			}
+		},
+		{
+			"file": "net_tcp_srv.hpp",
+			"settings":
+			{
+				"buffer_size": 2169,
+				"line_ending": "Unix",
+				"name": "net_tcp_srv.hpp"
+			}
+		},
+		{
+			"file": "net_tcp_srv.cc",
+			"settings":
+			{
+				"buffer_size": 2080,
+				"line_ending": "Unix",
+				"name": "net_tcp_srv.cc"
+			}
+		},
+		{
+			"file": "config.hpp",
+			"settings":
+			{
+				"buffer_size": 16,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "xml_cfg.hpp",
+			"settings":
+			{
+				"buffer_size": 1551,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "xml_cfg.cc",
+			"settings":
+			{
+				"buffer_size": 5325,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "airnav_ais.cfg",
+			"settings":
+			{
+				"buffer_size": 205,
+				"line_ending": "Unix",
+				"name": "airnav_ais.cfg"
+			}
+		}
+	],
+	"build_system": "Packages/User/arm_make.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"make",
+				"Set Syntax: Makefile"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ybb/arm_6410/projects/airnav_ais/airnav_ais",
+		"/home/ybb/arm_6410/nfsroot/tiny6410/etc/inittab",
+		"/home/ybb/arm_6410/nfsroot/tiny6410/etc/eth0-setting",
+		"/home/ybb/arm_6410/nfsroot/tiny6410/etc/init.d/ifconfig-eth0",
+		"/home/ybb/arm_6410/nfsroot/tiny6410/etc/init",
+		"/home/ybb/arm_6410/nfsroot/tiny6410/etc/init.d/rcS",
+		"/home/ybb/arm_6410/projects/airnav_ais/config.hpp",
+		"/home/ybb/arm_6410/projects/airnav_ais/airnav_ais.sublime-project",
+		"/home/ybb/arm_6410/myapp/ftdi1/Makefile",
+		"/home/ybb/arm_6410/projects/airnav_ais/serport.hpp",
+		"/home/ybb/arm_6410/projects/airnav_ais/airnav_ais.cc",
+		"/home/ybb/arm_6410/myapp/ftdi1/airnav_ais.cc",
+		"/home/ybb/untitled.sublime-project",
+		"/home/ybb/arm_6410/myapp/ftdi1/ftdi_version_i.h",
+		"/home/ybb/arm_6410/myapp/ftdi1/ftdi.h",
+		"/home/ybb/arm_6410/myapp/ftdi1/serial_test.c",
+		"/home/ybb/.config/sublime-text-2/Packages/User/arm_make.sublime-build",
+		"/home/ybb/arm_6410/myapp/ftdi1/ftdi_i.h",
+		"/home/ybb/arm_6410/myapp/ftdi1/baud_test.c",
+		"/home/ybb/arm_6410/myapp/ftdi1/bitbang_ft2232.c",
+		"/home/ybb/arm_6410/myapp/ftdi1/simple.c",
+		"/home/ybb/arm_6410/myapp/ftdi/Makefile",
+		"/home/ybb/arm_6410/test/Makefile",
+		"/home/ybb/arm_6410/myapp/COM/Makefile",
+		"/home/ybb/arm_6410/myapp/COM/serial_port.h",
+		"/home/ybb/arm_6410/myapp/COM/serial_port.c",
+		"/home/ybb/arm_6410/myapp/ftdi/ftdi.c",
+		"/home/ybb/arm_6410/libs/libftdi1-1.0/build/Makefile",
+		"/home/ybb/arm_6410/myapp/COM/serial_test.c",
+		"/home/ybb/arm_6410/libs/libftd2xx1.1.12/ReadMe.txt",
+		"/home/ybb/arm_6410/myapp/ftdi/a",
+		"/home/ybb/arm_6410/myapp/test_sbs_3/Makefile",
+		"/home/ybb/arm_6410/myapp/test_sbs_3/test_sbs_3.cc",
+		"/home/ybb/arm_6410/nfsroot/tiny6410/etc/profile",
+		"/home/ybb/arm_6410/test/boost_test.cc",
+		"/home/ybb/arm_6410/未命名文件夹/Makefile",
+		"/home/ybb/arm_6410/ARM配置信息/从flash启动的配置信息.txt",
+		"/home/ybb/arm_6410/ARM配置信息/NFS配置.txt",
+		"/home/ybb/arm_6410/nfsroot/tiny6410/etc/mime.types",
+		"/home/ybb/arm_6410/nfsroot/tiny6410/etc/fstab",
+		"/home/ybb/arm_6410/busybox-1.17.2/Makefile",
+		"/home/ybb/b/ad",
+		"/home/untitled.sublime-project"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"//",
+			"time",
+			"timeout",
+			"time",
+			"late",
+			"flow",
+			"CROSS_COMPILE"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Makefile",
+					"settings":
+					{
+						"buffer_size": 781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Makefile",
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "airnav_ais.cc",
+					"settings":
+					{
+						"buffer_size": 2745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1083,
+								1083
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "serport.hpp",
+					"settings":
+					{
+						"buffer_size": 1012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								981,
+								981
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "serport.cc",
+					"settings":
+					{
+						"buffer_size": 2318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"auto_name": "serport.cc",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "net_tcp_srv.hpp",
+					"settings":
+					{
+						"buffer_size": 2169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2121,
+								2121
+							]
+						],
+						"settings":
+						{
+							"auto_name": "net_tcp_srv.hpp",
+							"spell_check": true,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1242.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "net_tcp_srv.cc",
+					"settings":
+					{
+						"buffer_size": 2080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1639,
+								1639
+							]
+						],
+						"settings":
+						{
+							"auto_name": "net_tcp_srv.cc",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1296.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "config.hpp",
+					"settings":
+					{
+						"buffer_size": 16,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "xml_cfg.hpp",
+					"settings":
+					{
+						"buffer_size": 1551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1462,
+								1462
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "xml_cfg.cc",
+					"settings":
+					{
+						"buffer_size": 5325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5042,
+								5042
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3635.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "airnav_ais.cfg",
+					"settings":
+					{
+						"buffer_size": 205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"auto_name": "airnav_ais.cfg",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/ybb/arm_6410/projects/airnav_ais/airnav_ais.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
